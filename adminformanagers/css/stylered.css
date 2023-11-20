@@ -1,0 +1,291 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Rubik', sans-serif;
+}
+
+.firsttbck {
+	position: absolute;
+	width: 100%;
+	height: 722px;
+	overflow-x: clip;
+}
+
+.texturafirst {
+    padding: 0px;
+    width: 600px;
+    height: 300px;
+    right: 30px;
+    top: 230px;
+    transform: rotate(-175deg) skew(25deg) scale(1) perspective(300px) translate3d(40px, 40px, 40px);
+    position: absolute;
+    background-image: url(../img/ghhhggffgghj.png);
+    background-position: center;
+    background-size: cover;
+    transition: 0.4s all ease-in-out;
+    cursor: pointer;
+    -webkit-box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+-moz-box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+}
+
+.texturafirst1 {
+	padding: 0px;
+    width: 600px;
+    height: 300px;
+    right: 100px;
+    top: 290px;
+    transform: rotate(-175deg) skew(25deg) scale(1) perspective(300px) translate3d(40px, 40px, 40px);
+    position: absolute;
+    background-image: url(../img/ghhhggffgghj1.png);
+    background-position: center;
+    background-size: cover;
+    transition: 0.4s all ease-in-out;
+    cursor: pointer;
+    -webkit-box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+-moz-box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+}
+
+.texturafirst1:hover {
+	padding: 0px;
+    width: 600px;
+    height: 300px;
+    right: 100px;
+    top: 290px;
+    transform: rotate(-175deg) skew(25deg) scale(1) perspective(300px) translate3d(100px, 40px, 40px);
+    position: absolute;
+    background-image: url(../img/ghhhggffgghj1.png);
+    background-position: center;
+    background-size: cover;
+    -webkit-box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+-moz-box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+}
+
+.texturafirst2 {
+	padding: 0px;
+    width: 600px;
+    height: 300px;
+    right: 170px;
+    top: 350px;
+    transform: rotate(-175deg) skew(25deg) scale(1) perspective(300px) translate3d(40px, 40px, 40px);
+    position: absolute;
+    background-image: url(../img/ghhhggffgghj2.png);
+    background-position: center;
+    background-size: cover;
+    transition: 0.4s all ease-in-out;
+    cursor: pointer;
+    -webkit-box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+-moz-box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+}
+
+.texturafirst2:hover {
+	padding: 0px;
+    width: 600px;
+    height: 300px;
+    right: 170px;
+    top: 350px;
+    transform: rotate(-175deg) skew(25deg) scale(1) perspective(300px) translate3d(100px, 40px, 40px);
+    position: absolute;
+    background-image: url(../img/ghhhggffgghj2.png);
+    background-position: center;
+    background-size: cover;
+    -webkit-box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+-moz-box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+}
+
+.texturafirst3 {
+	padding: 0px;
+    width: 600px;
+    height: 300px;
+    right: 240px;
+    top: 410px;
+    transform: rotate(-175deg) skew(25deg) scale(1) perspective(300px) translate3d(40px, 40px, 40px);
+    position: absolute;
+    background-image: url(../img/ghhhggffgghj3.png);
+    background-position: center;
+    background-size: cover;
+    transition: 0.4s all ease-in-out;
+    cursor: pointer;
+    -webkit-box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+-moz-box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+}
+
+.texturafirst3:hover {
+	padding: 0px;
+    width: 600px;
+    height: 300px;
+    right: 240px;
+    top: 410px;
+    transform: rotate(-175deg) skew(25deg) scale(1) perspective(300px) translate3d(100px, 40px, 40px);
+    position: absolute;
+    background-image: url(../img/ghhhggffgghj3.png);
+    background-position: center;
+    background-size: cover;
+    -webkit-box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+-moz-box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+}
+
+.texturafirst4 {
+	padding: 0px;
+    width: 600px;
+    height: 300px;
+    right: 310px;
+    top: 474px;
+    transform: rotate(-175deg) skew(25deg) scale(1) perspective(300px) translate3d(40px, 40px, 40px);
+    position: absolute;
+    background-image: url(../img/ghhhggffgghj4.png);
+    background-position: center;
+    background-size: cover;
+    transition: 0.4s all ease-in-out;
+    cursor: pointer;
+    -webkit-box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+-moz-box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+}
+
+.texturafirst4:hover {
+	padding: 0px;
+    width: 600px;
+    height: 300px;
+    right: 310px;
+    top: 474px;
+    transform: rotate(-175deg) skew(25deg) scale(1) perspective(300px) translate3d(100px, 40px, 40px);
+    position: absolute;
+    background-image: url(../img/ghhhggffgghj4.png);
+    background-position: center;
+    background-size: cover;
+    -webkit-box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+-moz-box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+box-shadow: -2px 3px 63px -13px rgba(0,0,0,0.75);
+}
+
+.texturafirst333 {
+    display: none;
+    height: 20;
+    width: 100px;
+    position: absolute;
+    border-bottom: 2px solid white;
+    border-left: 2px solid white;
+    right: -98px;
+    bottom: -20px;    
+    transition: 0.4s all ease-in-out;
+}
+
+.texturafirst222 {
+    display: none;
+    height: 20;
+    width: 100px;
+    position: absolute;
+    border-bottom: 2px solid white;
+    border-left: 2px solid white;
+    right: -98px;
+    bottom: -20px;    
+    transition: 0.4s all ease-in-out;
+}
+
+.texturafirst000 {
+    display: none;
+    height: 20;
+    width: 100px;
+    position: absolute;
+    border-bottom: 2px solid white;
+    border-left: 2px solid white;
+    right: -98px;
+    bottom: -20px;    
+    transition: 0.4s all ease-in-out;
+}
+
+
+.texturafirst111 {
+    display: none;
+    height: 20;
+    width: 100px;
+    position: absolute;
+    border-bottom: 2px solid white;
+    border-left: 2px solid white;
+    right: -98px;
+    bottom: -20px;    
+    transition: 0.4s all ease-in-out;
+}
+
+.texturafirst444 {
+    display: none;
+    height: 20;
+    width: 100px;
+    position: absolute;
+    border-bottom: 2px solid white;
+    border-left: 2px solid white;
+    right: -98px;
+    bottom: -20px;    
+    transition: 0.4s all ease-in-out;
+}
+
+
+.texturafirst1:hover .texturafirst333 {
+	display: block;
+}
+
+.texturafirst2:hover .texturafirst222 {
+	display: block;
+}
+
+.texturafirst:hover .texturafirst000 {
+	display: block;
+}
+
+.texturafirst4:hover .texturafirst444 {
+	display: block;
+}
+
+.texturafirst3:hover .texturafirst111 {
+	display: block;
+}
+
+
+
+
+.texturafirst333 p {
+	color: white;
+	transform: rotate(180deg);
+	margin-top: 22px;
+	font-size: 18px;	
+    transition: 0.4s all ease-in-out;
+}
+
+.texturafirst000 p {
+	color: white;
+	transform: rotate(180deg);
+	margin-top: 22px;
+	font-size: 18px;	
+    transition: 0.4s all ease-in-out;
+}
+
+.texturafirst222 p {
+	color: white;
+	transform: rotate(180deg);
+	margin-top: 22px;
+	font-size: 18px;	
+    transition: 0.4s all ease-in-out;
+}
+
+.texturafirst444 p {
+	color: white;
+	transform: rotate(180deg);
+	margin-top: 22px;
+	font-size: 18px;	
+    transition: 0.4s all ease-in-out;
+}
+
+.texturafirst111 p {
+	color: white;
+	transform: rotate(180deg);
+	margin-top: 22px;
+	font-size: 18px;	
+    transition: 0.4s all ease-in-out;
+}
